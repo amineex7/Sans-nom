@@ -146,6 +146,8 @@
 
 % En-tete et bas de page par defaut
 \pagestyle{headings}
+% Utiliser les sections pour mettre a jour l'entete quand il n'y a pas de chapitres
+\renewcommand{\sectionmark}[1]{\markboth{\thesection\ #1}{}}
 
 
 % Definitions pour l'inclusion de graphiques
@@ -256,11 +258,15 @@
    \ifthenelse{\boolean{InsererListeDesFigures}}%
               {\clearpage%
                \listoffigures%
-               \addcontentsline{toc}{chapter}{\listfigurename}}{}
+               % Ne pas ajouter a la table des matieres
+               \clearpage}{}%
    \ifthenelse{\boolean{InsererListeDesTableaux}}%
               {\clearpage%
                \listoftables%
-               \addcontentsline{toc}{chapter}{\listtablename}}{}
+               % Ne pas ajouter a la table des matieres
+               \clearpage}{}%
+   % Nettoyer l'entete apres les listes (eviter "Liste des tableaux" partout)
+   \markboth{}{}%
 }
 
 % Reinitialisation du compteur "page" (valeur et style)

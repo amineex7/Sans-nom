@@ -5,7 +5,8 @@ INPUT /usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt
 INPUT /Users/amine/Downloads/rapport-v1_4_2/rapport_demo.tex
 OUTPUT rapport_demo.log
 INPUT ./ULrapport.cls
-INPUT ULrapport.cls
+INPUT ./ULrapport.cls
+INPUT ./ULrapport.cls
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/base/ifthen.sty
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/base/ifthen.sty
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/base/report.cls
@@ -273,4 +274,3 @@ INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr12.pfb
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr8.pfb
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmri12.pfb
-INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmro12.pfb
