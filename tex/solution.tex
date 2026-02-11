@@ -2,9 +2,9 @@
 
 \subsubsection*{Solution proposée}
 
-La solution proposée consiste à développer un système informatisé de gestion intégré pour le groupe d'achat Yakabio (SGI-Yakabio). Il s'agira d'une application web accessible au moyen d'un navigateur standard, qui permettra aux membres et aux responsables d'équipes d'effectuer leurs tâches de manière centralisée et automatisée.
+La solution proposée consiste à développer un système informatisé de gestion intégré pour le groupe d'achat Yakabio, que nous appellerons SGI-Yakabio. Il s'agira d'une application web accessible depuis un navigateur standard, qui permettra aux membres et aux responsables d'équipes d'accomplir leurs tâches de façon centralisée et automatisée.
 
-Le système sera conçu de manière modulaire et paramétrable afin de pouvoir être adapté et commercialisé auprès d'autres groupes d'achat. Il fonctionnera sous Windows et ne nécessitera que des logiciels standards (navigateur web, client courriel).
+Le système sera conçu de manière modulaire et paramétrable, de sorte qu'il puisse être adapté et éventuellement commercialisé auprès d'autres groupes d'achat. Il fonctionnera sous Windows et ne nécessitera que des logiciels courants (navigateur web et client courriel).
 
 \subsubsection*{Portée du projet}
 
@@ -14,24 +14,24 @@ Le projet comprend les éléments suivants :
 \begin{itemize}
     \item Inscription et mise à jour des informations des membres (nom, adresse, téléphone, courriel)
     \item Gestion des cotisations annuelles
-    \item Attribution des membres aux équipes
+    \item Attribution des membres aux différentes équipes
     \item Génération et envoi des cartes de membre
 \end{itemize}
 
-\textbf{Module de gestion des fournisseurs et catalogues :}
+\textbf{Module de gestion des fournisseurs et des catalogues :}
 \begin{itemize}
-    \item Enregistrement des fournisseurs et de leurs coordonnées
+    \item Enregistrement des fournisseurs avec leurs coordonnées
     \item Importation et gestion des catalogues de produits (code, description, prix, taxes)
-    \item Support de plusieurs fournisseurs avec des calendriers distincts
+    \item Prise en charge de plusieurs fournisseurs avec des calendriers distincts
 \end{itemize}
 
 \textbf{Module de gestion des commandes :}
 \begin{itemize}
-    \item Interface de saisie des commandes individuelles par les membres
+    \item Interface permettant aux membres de saisir leurs commandes individuelles
     \item Compilation automatique de la commande groupée
-    \item Génération des bordereaux de commande au format requis par les fournisseurs
+    \item Génération des bordereaux de commande dans le format exigé par les fournisseurs
     \item Calcul automatique des montants, des taxes et des totaux
-    \item Suivi du statut des commandes
+    \item Suivi de l'état des commandes
 \end{itemize}
 
 \textbf{Module de gestion des livraisons :}
@@ -46,39 +46,56 @@ Le projet comprend les éléments suivants :
 \begin{itemize}
     \item Enregistrement des paiements reçus des membres
     \item Suivi des chèques et des dépôts bancaires
-    \item Génération du sommaire de commande et du chèque au fournisseur
-    \item Historique des transactions financières
+    \item Génération du sommaire de commande et du chèque destiné au fournisseur
+    \item Historique complet des transactions financières
 \end{itemize}
+\newpage
 
 \textbf{Module de coordination des équipes :}
 \begin{itemize}
     \item Gestion des équipes et de leurs membres
     \item Saisie des disponibilités des bénévoles
     \item Attribution des tâches pour chaque cycle de commande
-    \item Envoi de rappels automatiques (courriel)
-    \item Registre de participation des membres aux activités
+    \item Envoi de rappels automatiques par courriel
+    \item Registre de participation des membres aux différentes activités
 \end{itemize}
 
 \textbf{Module de paramétrage :}
 \begin{itemize}
     \item Configuration des informations du groupe d'achat (nom, adresse, coordonnées)
-    \item Personnalisation des documents générés (entêtes, logos)
+    \item Personnalisation des documents générés (en-têtes, logos)
     \item Gestion du calendrier des commandes
 \end{itemize}
 
-\textbf{Module de rapports et statistiques :}
+\textbf{Module de rapports et de statistiques :}
 \begin{itemize}
     \item Rapports sur les volumes de commandes
     \item Statistiques sur la participation des membres
     \item Historique des commandes par membre
-    \item Tableau de bord pour la coordonnatrice
+    \item Tableau de bord destiné à la coordonnatrice
 \end{itemize}
 
 \textbf{Livrables du projet :}
 \begin{itemize}
     \item Application web fonctionnelle SGI-Yakabio
     \item Documentation technique du système
-    \item Guide d'utilisation pour les utilisateurs
+    \item Guide d'utilisation destiné aux utilisateurs
     \item Formation d'un super-utilisateur
     \item Code source et scripts d'installation
+\end{itemize}
+
+\subsection{Éléments non inclus dans le projet}
+
+Les éléments suivants ne font pas partie de la portée du projet actuel et ne seront pas développés dans cette première version :
+
+\begin{itemize}
+    \item \textbf{Application mobile :} Aucune application mobile n'est prévue. La solution sera accessible uniquement via un navigateur web standard.
+
+    \item \textbf{Intégration avec d'autres fournisseurs que BonProBio :} Dans cette première version, seule l'intégration avec BonProBio sera mise en place. L'ajout d'autres fournisseurs pourra être envisagé dans une version ultérieure du système.
+
+    \item \textbf{Module de gestion financière avancée :} Les fonctionnalités de comptabilité complète et de génération de rapports fiscaux ne sont pas incluses. Le système se limitera au suivi des paiements et à la génération des factures.
+
+    \item \textbf{Paiement en ligne :} L'intégration d'un système de paiement en ligne (carte de crédit, virement bancaire) n'est pas prévue. Les paiements continueront à se faire par chèque.
+
+    \item \textbf{Support multilingue :} L'interface sera offerte uniquement en français.
 \end{itemize}

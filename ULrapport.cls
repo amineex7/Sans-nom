@@ -182,11 +182,10 @@
       \end{center}
       \renewcommand{\arraystretch}{1.5}            % plus d'espace pour les signatures
       \begin{tabularx}{\textwidth}%
-         {|l|>{\raggedright\arraybackslash}X|>{\raggedright\arraybackslash}X|}
+         {|>{\centering\arraybackslash}X|>{\raggedright\arraybackslash}X|}
          \hline
-         \multicolumn{1}{|c|}{\emph{matricule}}
+         \emph{matricule}
          & \multicolumn{1}{c|}{\emph{nom}}
-         & \multicolumn{1}{c|}{\emph{Rôle}}
          \\\hline
          \theTableauMembres
       \end{tabularx}\par
@@ -219,7 +218,7 @@
 \def\theTitreRapport{Titre du rapport}                % Titre du rapport
 \def\theDestinataire{Destinataire}                    % Nom(s) du destinataire
 \def\theNumeroEquipe{XX}                              % Numero de l'equipe
-\def\theTableauMembres{matricule & nom & \\\hline}    % Tableau des membres de l'equipe
+\def\theTableauMembres{matricule & nom \\\hline}    % Tableau des membres de l'equipe
 \def\theDateRemise{Date de remise}                    % Date de remise          % Historique des versions
 
 

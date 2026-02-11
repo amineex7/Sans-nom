@@ -26,14 +26,21 @@
 %    - "ULlof" pour inclure la liste des figures, requis si "\begin{figure}" utilise
 %    - "ULlot" pour inclure la liste des tableaux, requis si "\begin{table}" utilise
 %
-\documentclass[12pt,ULlof,ULlot]{./ULrapport}
+\documentclass[12pt,ULlot]{./ULrapport}
 
 % Chargement des packages supplementaires (si absent de la classe)
 \usepackage[utf8]{inputenc}
 \usepackage[table]{xcolor}
+
+% Définition des couleurs pour les tableaux
+\definecolor{headerblue}{RGB}{41, 65, 114}
+\definecolor{lightgray}{RGB}{240, 240, 240}
+\definecolor{mediumgray}{RGB}{220, 220, 220}
 \usepackage[autolanguage]{numprint}
 \usepackage{icomma}
 \usepackage{float}
+\usepackage{comment}
+
 %\usepackage[options]{nom_du_package}
 
 % Numeroter les sections en 1, 2, 3... meme sans chapitres
@@ -59,10 +66,10 @@
 \Destinataire{M. Jean-François Couturier}         % Nom(s) du destinataire
 \NumeroEquipe{05}                                     % Numero de l'equipe                            % Nom de l'equipe
 \TableauMembres{%                                     % Tableau des membres de l'equipe
-   111\,111\,111  & Salma Mouhsin   & Responsable de l'équipe\\\hline      % matricule & nom & \\\hline
-   222\,222\,222  & Vincent Méroz        & \\\hline        % matricule & nom & \\\hline
-   333\,333\,333  & Mohamed Amine Annane         & \\\hline        % matricule & nom & \\\hline
-   444\,444\,444  & Iréti Rohan Yannis Kurtis Wilfried Zoumenou     & \\\hline        % matricule & nom & \\\hline
+   537\,115\,233  & Salma Mouhsin \\\hline
+   537\,393\,767  & Vincent Méroz \\\hline
+   537\,294\,570  & Mohamed Amine Annane \\\hline
+   537\,308\,338  & Iréti Rohan Yannis Kurtis Wilfried Zoumenou \\\hline
 }
 \DateRemise{13 février 2026}                           % Date de remise du rapport
 % Corps du document
@@ -77,6 +84,9 @@
 \input{tex/criteres_succes.tex}
 \input{tex/hypothse.tex}
 \input{tex/solution.tex}
+\input{tex/impacts_benefices.tex}
+\input{tex/conclusion.tex}
+\input{tex/gestion_projet.tex}
 %\input{tex/exemples_LaTeX}
 
 %   Annexes

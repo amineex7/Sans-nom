@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  5 FEB 2026 15:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  11 FEB 2026 16:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -397,31 +397,33 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \float@box=\box60
 \@float@everytoks=\toks32
 \@floatcapt=\box61
-) (/usr/local/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/comment/comment.sty
+\CommentStream=\write3
+ Excluding comment 'comment') (/usr/local/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count316
 \l__pdf_internal_box=\box62
 ) (./rapport_demo.aux)
 \openout1 = `rapport_demo.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -459,8 +461,8 @@ LaTeX Font Info:    ... okay on input line 70.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \degres on input line 70.
-LaTeX Info: Redefining \up on input line 70.
+LaTeX Info: Redefining \degres on input line 77.
+LaTeX Info: Redefining \up on input line 77.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
@@ -489,68 +491,59 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (/usr/local/texlive/2025/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Package hyperref Info: Link coloring ON on input line 70.
+Package hyperref Info: Link coloring ON on input line 77.
  (./rapport_demo.out) (./rapport_demo.out)
-\@outlinefile=\write3
-\openout3 = `rapport_demo.out'.
+\@outlinefile=\write4
+\openout4 = `rapport_demo.out'.
 
-<./fig/ul_logo.pdf, id=36, 313.17pt x 129.48375pt>
+<./fig/ul_logo.pdf, id=84, 313.17pt x 129.48375pt>
 File: ./fig/ul_logo.pdf Graphic file (type pdf)
 <use ./fig/ul_logo.pdf>
-Package pdftex.def Info: ./fig/ul_logo.pdf  used on input line 70.
+Package pdftex.def Info: ./fig/ul_logo.pdf  used on input line 77.
 (pdftex.def)             Requested size: 140.99799pt x 58.29875pt.
-<./fig/group_achat_logo.png, id=37, 1505.625pt x 1505.625pt>
+<./fig/group_achat_logo.png, id=85, 1505.625pt x 1505.625pt>
 File: ./fig/group_achat_logo.png Graphic file (type png)
 <use ./fig/group_achat_logo.png>
-Package pdftex.def Info: ./fig/group_achat_logo.png  used on input line 70.
+Package pdftex.def Info: ./fig/group_achat_logo.png  used on input line 77.
 (pdftex.def)             Requested size: 281.99597pt x 281.98236pt.
 
-Overfull \hbox (55.423pt too wide) in paragraph at lines 70--70
+Overfull \hbox (55.423pt too wide) in paragraph at lines 77--77
  [][]
  []
 
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 70.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 77.
 (/usr/local/texlive/2025/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 70.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 77.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 70.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 77.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 70.
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 77.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 70.
+(Font)              <12> on input line 77.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 70.
+(Font)              <8> on input line 77.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 70.
+(Font)              <6> on input line 77.
 
 
 [999
 
 {/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc} <./fig/ul_logo.pdf> <./fig/group_achat_logo.png>] (./rapport_demo.toc)
-\tf@toc=\write4
-\openout4 = `rapport_demo.toc'.
+\tf@toc=\write5
+\openout5 = `rapport_demo.toc'.
 
 
 
 [1
-
-
-] (./rapport_demo.lof)
-\tf@lof=\write5
-\openout5 = `rapport_demo.lof'.
-
-
-
-[2
 
 
 ] (./rapport_demo.lot)
@@ -559,8 +552,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 
 
-[3
-
+[2
 
 
 ] (./tex/introduction.tex) (./tex/charte_projet.tex) (./tex/mise_encontexte.tex
@@ -574,68 +566,52 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 [3]) (./tex/hypothse.tex
 
-[4]
-Underfull \hbox (badness 3623) in paragraph at lines 66--66
-[]|\T1/lmr/m/n/8 Résistance au chan-ge-
- []
-
-
-Underfull \hbox (badness 1281) in paragraph at lines 66--66
-\T1/lmr/m/n/8 tème par les membres
- []
-
-
-Underfull \hbox (badness 2961) in paragraph at lines 66--66
-\T1/lmr/m/n/8 sus de Bon-Pro-Bio en
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 66--66
-[]|\T1/lmr/m/n/8 Dépassement de
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 66--66
-\T1/lmr/m/n/8 l'échéan-cier de 18
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 66--66
-[]|\T1/lmr/m/n/8 Problèmes tech-niques
- []
-
-
-Underfull \hbox (badness 1478) in paragraph at lines 66--66
-\T1/lmr/m/n/8 liés à la di-ver-sité des
- []
-
-) (./tex/solution.tex
+[4]) (./tex/solution.tex
 
 [5]
 
-[6])
+[6]) (./tex/impacts_benefices.tex
 
-[7] (./rapport_demo.aux)
+[7]
+
+[8]
+
+[9]) (./tex/conclusion.tex
+
+[10]) (./tex/gestion_projet.tex
+Underfull \hbox (badness 5652) in paragraph at lines 34--34
+[]|\T1/lmr/m/n/12 Chargée de pro-jet, co-or-di-na-tion de
+ []
+
+
+
+[11]
+
+[12] Excluding 'comment' comment.
+
+[13])
+
+[14] (./rapport_demo.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `rapport_demo.out' has not changed.
-(rerunfilecheck)             Checksum: 84E71D62AF305EF5170400365F7065C2;1763.
+(rerunfilecheck)             Checksum: 7D3A1CF9E4B162E4DD07B85E4EF26565;4712.
  ) 
 Here is how much of TeX's memory you used:
- 14303 strings out of 473190
- 236903 string characters out of 5715801
- 659110 words of memory out of 5000000
- 37272 multiletter control sequences out of 15000+600000
+ 14415 strings out of 473190
+ 238919 string characters out of 5715801
+ 663199 words of memory out of 5000000
+ 37339 multiletter control sequences out of 15000+600000
  613835 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 90i,12n,93p,674b,565s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 90i,11n,93p,744b,565s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbx8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmri12.pfb>
-Output written on rapport_demo.pdf (11 pages, 471035 bytes).
+Output written on rapport_demo.pdf (17 pages, 491778 bytes).
 PDF statistics:
- 173 PDF objects out of 1000 (max. 8388607)
- 142 compressed objects within 2 object streams
- 44 named destinations out of 1000 (max. 500000)
- 75 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 285 PDF objects out of 1000 (max. 8388607)
+ 247 compressed objects within 3 object streams
+ 79 named destinations out of 1000 (max. 500000)
+ 171 words of extra memory for PDF output out of 10000 (max. 10000000)
 

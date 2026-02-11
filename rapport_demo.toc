@@ -9,3 +9,15 @@
 \contentsline {subsection}{\numberline {2.3}Critères de succès}{3}{subsection.0.2.3}%
 \contentsline {subsection}{\numberline {2.4}Hypothèses, contraintes et risques}{4}{subsection.0.2.4}%
 \contentsline {subsection}{\numberline {2.5}Solution proposée et portée du projet}{6}{subsection.0.2.5}%
+\contentsline {subsection}{\numberline {2.6}Éléments non inclus dans le projet}{7}{subsection.0.2.6}%
+\contentsline {subsection}{\numberline {2.7}Impacts du projet}{7}{subsection.0.2.7}%
+\contentsline {subsection}{\numberline {2.8}Bénéfices attendus}{8}{subsection.0.2.8}%
+\contentsline {subsection}{\numberline {2.9}Intervenants du projet}{9}{subsection.0.2.9}%
+\contentsline {section}{\numberline {3}Conclusion}{10}{section.0.3}%
+\contentsline {subsection}{\numberline {3.1}Bilan du travail réalisé et faisabilité du projet}{10}{subsection.0.3.1}%
+\contentsline {subsection}{\numberline {3.2}Recommandations pour la suite du travail}{11}{subsection.0.3.2}%
+\contentsline {section}{\numberline {4}Compte rendu de la gestion de projet}{11}{section.0.4}%
+\contentsline {subsection}{\numberline {4.1}Composition de l'équipe et rôles}{11}{subsection.0.4.1}%
+\contentsline {subsection}{\numberline {4.2}Compte rendu des principales activités réalisées}{12}{subsection.0.4.2}%
+\contentsline {subsection}{\numberline {4.3}Problèmes rencontrés et suggestions de solutions}{13}{subsection.0.4.3}%
+\contentsline {subsection}{\numberline {4.4}Évaluation globale de la gestion de projet et d'équipe}{13}{subsection.0.4.4}%

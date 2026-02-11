@@ -159,6 +159,8 @@ INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/was/icomma.sty
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/was/icomma.sty
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/float/float.sty
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/float/float.sty
+INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/comment/comment.sty
+INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/comment/comment.sty
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT ./rapport_demo.aux
@@ -227,10 +229,6 @@ INPUT ./rapport_demo.toc
 INPUT ./rapport_demo.toc
 INPUT rapport_demo.toc
 OUTPUT rapport_demo.toc
-INPUT ./rapport_demo.lof
-INPUT ./rapport_demo.lof
-INPUT rapport_demo.lof
-OUTPUT rapport_demo.lof
 INPUT ./rapport_demo.lot
 INPUT ./rapport_demo.lot
 INPUT rapport_demo.lot
@@ -265,6 +263,15 @@ INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/lm/ec-lmcsc10.tfm
 INPUT ./tex/solution.tex
 INPUT ./tex/solution.tex
 INPUT tex/solution.tex
+INPUT ./tex/impacts_benefices.tex
+INPUT ./tex/impacts_benefices.tex
+INPUT tex/impacts_benefices.tex
+INPUT ./tex/conclusion.tex
+INPUT ./tex/conclusion.tex
+INPUT tex/conclusion.tex
+INPUT ./tex/gestion_projet.tex
+INPUT ./tex/gestion_projet.tex
+INPUT tex/gestion_projet.tex
 INPUT rapport_demo.aux
 INPUT ./rapport_demo.out
 INPUT ./rapport_demo.out
